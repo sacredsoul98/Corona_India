@@ -1,0 +1,1 @@
+This program gives you the current details of the impact of coronavirus such as details about infected,dead and recovered number of patients.
